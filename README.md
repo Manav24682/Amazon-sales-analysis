@@ -145,6 +145,11 @@ Shows the average sales value per order.
 
 A final Amazon Sales Analysis dashboard was created by combining the most important KPIs and visualizations.
 
+## Dashboard Preview
+
+![Amazon Sales Analysis Dashboard]
+(Dashboard.png)
+
 ### Dashboard Components
 
 - Total Sales
@@ -168,7 +173,7 @@ The insights will focus on:
 - Strongest-performing cities.
 - Highest-performing product categories.
 - Highest-sales months.
-- Customer/order behavior.
+- Customer/order Behavior.
 - B2B vs Non-B2B contribution.
 - Areas with potential business improvement.
 
@@ -193,7 +198,27 @@ Based on the final analysis, recommendations will focus on:
 
 '''bash
 git clone
-<>
+<https://github.com/Manav24682/Amazon-sales-analysis.git>
 
-```bash
-git clone <your-github-repository-link>
+### 2. Open the project folder
+cd amazon-sales-analysis
+
+### 3. Install required libraries
+pip install pandas matplotlib seaborn
+
+### 4. Add the dataset
+Place the Amazon sales CSV file in the project folder.
+
+### 5. Run the python file
+Python Sales_analysis.py
+
+### 6. Project structure
+Amazon-Sales-Analysis/
+│
+├── Sales_analysis.py
+├── README.md
+├── requirements.txt
+├── Dashboard.png
+Author
+Manav Kumar
+BCA Student 
