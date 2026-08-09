@@ -54,7 +54,7 @@ The project uses an Amazon Sales Report dataset containing information about:
 - B2B information
 - Order Status
 
-The original CSV dataset is not included in this repository because of its file size.
+The original Amazon sales CSV dataset is included in this repository.
 
 ---
 
