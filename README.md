@@ -147,8 +147,7 @@ A final Amazon Sales Analysis dashboard was created by combining the most import
 
 ## Dashboard Preview
 
-![Amazon Sales Analysis Dashboard]
-(./Dashboard.png)
+![Amazon Sales Analysis Dashboard](./Dashboard.png)
 
 ### Dashboard Components
 
@@ -215,10 +214,11 @@ Python Sales_analysis.py
 ### 6. Project structure
 Amazon-Sales-Analysis/
 │
-├── Sales_analysis.py
-├── README.md
-├── requirements.txt
 ├── Dashboard.png
+├── README.md
+├── Sales_analysis.py
+├── requirements.txt
+
 Author
 Manav Kumar
 BCA Student 
