@@ -148,7 +148,7 @@ A final Amazon Sales Analysis dashboard was created by combining the most import
 ## Dashboard Preview
 
 ![Amazon Sales Analysis Dashboard]
-(Dashboard.png)
+(./Dashboard.png)
 
 ### Dashboard Components
 
